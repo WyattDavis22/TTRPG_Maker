@@ -1,7 +1,9 @@
 # TTRPG Maker 
 (This application is currently being developed in a repositiory for Grand Valley State University)
 
-A web application designed to make it easier for GMs of table-top RPGs to run their own, homebrewed games.
+## Project Description
+
+This application is a web application designed to make it easier for GMs of table-top RPGs to run their own, homebrewed games.
 
 More specifically, this app should provide interfaces for a campaign's GM to:
 * Create their own game; which includes a world, quests, player characters, and non-player characters
@@ -16,3 +18,11 @@ As well as allow users to act as GMs for their own games, they can also:
 * Manage their characters' inventories, levels, etc.
 * Take both public and private notes on characters, quests, towns, etc.
 * Interact with landmarks (buy and sell from shops, estimate distances and travel times, etc.)
+
+## Stack Overview
+This is a single-page web application. It uses:
+* HTML as our mark-up language
+* CSS for our style sheets
+* JavaScript as out scripting language
+* React.js as our front-end framework
+* TBH as our database
