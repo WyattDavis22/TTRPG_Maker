@@ -11,7 +11,7 @@ More specifically, this app should provide interfaces for a campaign's GM to:
 * Manage their characters (both player and non-player)
 * Manage the quests within their games
 
-It should also allow players to:
+As well as allow users to act as GMs for their own games, they can also:
 * Create a player character and join a game
 * Manage their characters' inventories, levels, etc.
 * Take both public and private notes on characters, quests, towns, etc.
