@@ -1,5 +1,5 @@
 # TTRPG Maker 
-(This application is currently being developed in a [repositiory for Grand Valley State University](https://github.com/daviswygvsu/cis-371-final)
+This application is currently being developed in a [repositiory for Grand Valley State University](https://github.com/daviswygvsu/cis-371-final)
 
 ## Project Description
 
