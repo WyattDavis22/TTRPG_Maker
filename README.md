@@ -26,3 +26,13 @@ This is a single-page web application. It uses:
 * JavaScript as out scripting language
 * React.js as our front-end framework
 * TBH as our database
+
+## Authors
+* [Wyatt Davis](https://www.linkedin.com/in/wyattndavis/)
+* [Ryan Kinahan](https://www.linkedin.com/in/ryankinahan/)
+
+## Resource Citation
+### Images
+*
+### Audio
+*
