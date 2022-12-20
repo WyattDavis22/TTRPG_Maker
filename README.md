@@ -30,6 +30,7 @@ This is a single-page web application. It uses:
 ## Authors
 * [Wyatt Davis](https://www.linkedin.com/in/wyattndavis/)
 * [Ryan Kinahan](https://www.linkedin.com/in/ryankinahan/)
+* [Hannah Cain](https://www.linkedin.com/in/hannah-cain-2022/)
 
 ## Resource Citation
 ### Images
